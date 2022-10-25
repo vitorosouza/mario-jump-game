@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Mario Jump Game </h1>
 
 <p align="center">
 Jogo Mario Jump, promovido pel Manual do DEV para ensino de tecnologias WEB.
