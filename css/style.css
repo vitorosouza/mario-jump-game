@@ -81,14 +81,3 @@
         right: 100%;
     }
 }
-
-
-.game-board {
-    /* Background pattern from Toptal Subtle Patterns */
-    background-image: url("./images/background-mario.png");
-    background-size: auto;
-    height: 400px;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: left; 
- }

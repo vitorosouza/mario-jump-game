@@ -19,7 +19,7 @@ const loop = setInterval(() =>{
 
     if(pipePosition <= 120 && pipePosition > 0 && marioPosition < 80){
 
-        pipe.style.animation = 'none'; //Para a animação do mario
+        pipe.style.animation = 'none'; //Para a animação do cano
         pipe.style.left = `${pipePosition}px`; //Passa a posição do deslocamento esquerdo
 
         mario.style.animation = 'none'; //Para a animação do mario
@@ -36,9 +36,5 @@ const loop = setInterval(() =>{
 
 },10);
 
-
-
-
 document.addEventListener('keydown', jump);
 
-//jump();
