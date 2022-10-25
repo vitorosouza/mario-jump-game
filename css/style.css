@@ -89,4 +89,6 @@
     background-size: auto;
     height: 400px;
     width: 100%;
+    background-repeat: no-repeat;
+    background-position: left; 
  }
